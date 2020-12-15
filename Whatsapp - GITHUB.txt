@@ -1,5 +1,6 @@
-1. whatsapp msg
+1. incoming/outgoing msgs
 2. Notifications
 3. Picture message
 4. Audio
 5. Video
+6.delete message for everyone
