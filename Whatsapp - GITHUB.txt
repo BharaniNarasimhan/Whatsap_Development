@@ -5,3 +5,4 @@
 5. Video
 6.delete message for everyone
 Create and Restore new branch
+adding status train model
